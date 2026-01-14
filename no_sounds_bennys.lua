@@ -1,0 +1,5 @@
+CreateThread(function()
+    SetAmbientZoneStatePersistent("improviser_surplussing_colision", false, true)
+    SetAmbientZoneStatePersistent("lyons_samey_colision", false, true)
+    SetAmbientZoneStatePersistent("lowlives_briefing_collision", false, true)
+end)
