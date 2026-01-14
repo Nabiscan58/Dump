@@ -1,0 +1,1 @@
+AddTextEntry("WEAPON_UZI_ARCBYTE", "UZI_ARCBYTE")
